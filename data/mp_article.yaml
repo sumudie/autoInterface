@@ -1,0 +1,5 @@
+mp_article001:
+  title: "testmparticle"
+  content: "今天太冷了，吃火锅吧~"
+  channel: "数据库"
+  channel_id: "7"
