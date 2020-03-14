@@ -1,3 +1,0 @@
-[32mINFO    [0m root:api_mp.py:39 正在调用自媒体发布文章方法，测试数据: {'title': 'testmparticle', 'content': '今天太冷了，吃火锅吧~', 'channel_id': '7', 'cover': {'type': 0, 'images': []}} 请求头：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODQxODg3NTksInVzZXJfaWQiOjEyMDY3NTU2NTMzNjA1NDk4ODgsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.8Ga4qMEIJI7nsV8kMCD4cdUdsoUOd0vpNx0xm61vKTk'}
-[32mINFO    [0m root:test01_mp.py:42 正在获取发布文章id：1238773365712355328
-[32mINFO    [0m root:tools.py:20 正在调用公共方法断言
